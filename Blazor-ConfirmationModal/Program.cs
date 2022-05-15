@@ -1,5 +1,5 @@
 using Blazor_ConfirmationModal.Data;
-using Blazor_ConfirmationModal.Serives;
+using Blazor_ConfirmationModal.Servises;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 

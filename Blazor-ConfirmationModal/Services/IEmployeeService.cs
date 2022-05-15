@@ -1,7 +1,8 @@
 ﻿using Blazor_ConfirmationModal.dbcontext;
 using Blazor_ConfirmationModal.Models;
 
-namespace Blazor_ConfirmationModal.Serives
+namespace Blazor_ConfirmationModal.Servises
+
 {
     public interface IEmployeeService
     {
